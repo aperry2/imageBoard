@@ -1,0 +1,51 @@
+3/25/17
+Kc2 Ne8 Pf5 Nh5
+Ng8 Kh8
+3/26/17
+Nc6 Qd4 Pe6 Ke5
+Qf7 Nd6 Ke2 Rf3
+3/27/17
+Pa5 Pb7 Qb6 Bf7 Rf6 Pf4 Pg7 Kh8 Ph7 Rh5
+Pa3 Pb2 Pd5 Rd1 Qe7 Re4 Pf3 Bg2 Ph2 Kh1
+3/28/17
+Ra8 Pa7 Pb7 Kd8 Pd5 Pe6 Bf8 Pf7 Nf5 Pg7 Qg5 Rh8 Ph7
+Pa2 Bb5 Pb2 Bc5 Rc1 Qd1 Re1 Pf2 Pg3 Kg1 Ph2
+3/29/17
+Ra8 Pa7 Bb7 Nd8 Pd5 Ke8 Pe6 Qf7 Rg8 Pg5 Ph7
+Ba3 Pa2 Pb3 Pb2 Rc1 Re1 Pf2 Pg2 Kg1 Qh5 Ph2
+3/30/17
+Ra7 Bd3 Kf6 Ph7
+Pa6 Rb6 Bb3 Pe6 Kg1
+3/31/17
+Ra8 Pa6 Pb5 Pc7 Pc4 Bd5 Kf6 Qf4 Pg5 Rh8 Ph6
+Ph4 Ba3 Ra1 Pc3 Pd4 Re7 Qe2 Pf2 Pg4 Kg1 Ph4
+4/1/17
+Ra8 Pa7 Pb7 Qd8 Pd6 Nd5 Pd4 Pe7 Pe5 Bf8 Kf6 Pg7 Pg6 Rh8
+Ra2 Pa1 Pb5 Pc7 Pc4 Bd5 Kf6 Qf4 Pg5 Rh8 Ph6
+4/2/17
+Pa5 Pe5 Kg4
+Pa4 Kc5 Pe4
+Duchamp
+Kb5 Pd4
+Kf4 Pd5
+Perspective Sketch
+Qa8 Rc8 Kh8 Pg7 Ph7
+Qd5 Ng5 Kh1 Pg2 Ph2
+Set Board
+Pa7 Pb7 Pc7 Pd7 Pe7 Pf7 Pg7 Ph7 Ra8 Nb8 Bc8 Qd8 Ke8 Bf8 Ng8 Rh8
+Pa2 Pb2 Pc2 Pd2 Pe2 Pf2 Pg2 Ph2 Ra1 Nb1 Bc1 Qd1 Ke1 Bf1 Ng1 Rh1
+1.a4
+Pa7 Pb7 Pc7 Pd7 Pe7 Pf7 Pg7 Ph7 Ra8 Nb8 Bc8 Qd8 Ke8 Bf8 Ng8 Rh8
+Pa4 Pb2 Pc2 Pd2 Pe2 Pf2 Pg2 Ph2 Ra1 Nb1 Bc1 Qd1 Ke1 Bf1 Ng1 Rh1
+a5
+Pa5 Pb7 Pc7 Pd7 Pe7 Pf7 Pg7 Ph7 Ra8 Nb8 Bc8 Qd8 Ke8 Bf8 Ng8 Rh8
+Pa4 Pb2 Pc2 Pd2 Pe2 Pf2 Pg2 Ph2 Ra1 Nb1 Bc1 Qd1 Ke1 Bf1 Ng1 Rh1
+2.b4
+Pa5 Pb7 Pc7 Pd7 Pe7 Pf7 Pg7 Ph7 Ra8 Nb8 Bc8 Qd8 Ke8 Bf8 Ng8 Rh8
+Pa4 Pb4 Pc2 Pd2 Pe2 Pf2 Pg2 Ph2 Ra1 Nb1 Bc1 Qd1 Ke1 Bf1 Ng1 Rh1
+axb4
+Pb4 Pb7 Pc7 Pd7 Pe7 Pf7 Pg7 Ph7 Ra8 Nb8 Bc8 Qd8 Ke8 Bf8 Ng8 Rh8
+Pa4 Pc2 Pd2 Pe2 Pf2 Pg2 Ph2 Ra1 Nb1 Bc1 Qd1 Ke1 Bf1 Ng1 Rh1
+al adli puzzle
+Rd7 Rh7 Kf6 Ng6 Pf5
+Kg8 Pf4 Ng3 Re1 Rg1
